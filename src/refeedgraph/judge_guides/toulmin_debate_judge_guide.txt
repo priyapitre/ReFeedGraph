@@ -1,0 +1,185 @@
+TOULMIN MODEL DEBATE JUDGE GUIDE
+
+Purpose:
+A Toulmin judge evaluates the quality of arguments in a debate. The judge should focus on how well each debater supports their position, not just whether the answer sounds confident, polished, or persuasive.
+
+Core idea:
+The best argument is the one with a clear claim, relevant evidence, explicit reasoning, appropriate support for that reasoning, calibrated confidence, and a meaningful response to counterarguments.
+
+Toulmin Components:
+
+1. Claim
+The main position, answer, or conclusion the debater is defending.
+
+A strong claim is:
+- clear
+- specific
+- easy to identify
+- consistent across the argument
+
+A weak claim is:
+- vague
+- buried in explanation
+- shifting across turns
+- unclear or missing
+
+Example:
+Weak: “I think B is probably right.”
+Strong: “The correct answer is B because it is the only option that explains the causal relationship asked for in the question.”
+
+2. Grounds / Evidence
+The support used to justify the claim.
+
+Evidence can include:
+- facts from the prompt
+- data
+- examples
+- calculations
+- retrieved information
+- quoted context
+- observations about the answer choices
+
+A strong argument uses evidence that is relevant, accurate, and sufficient.
+
+A weak argument uses evidence that is missing, irrelevant, invented, generic, or cherry-picked.
+
+Example:
+Weak: “B seems right.”
+Strong: “The passage states that the policy reduced costs by 20%, and option B is the only answer that mentions cost reduction.”
+
+3. Warrant
+The reasoning that connects the evidence to the claim.
+
+This is the most important part of Toulmin judging. The judge should ask: “Did the debater explain why the evidence proves or supports the claim?”
+
+A strong warrant makes the logic explicit.
+
+A weak warrant leaves the connection unclear or relies on circular reasoning.
+
+Example:
+Weak: “The passage says costs decreased, so B.”
+Strong: “Because the question asks for the main effect of the policy, and the passage directly identifies cost reduction as the measurable outcome, the evidence supports B.”
+
+4. Backing
+The additional support for the warrant.
+
+Backing may include:
+- definitions
+- rules
+- task instructions
+- domain knowledge
+- scientific principles
+- mathematical properties
+- legal or ethical standards
+- debate norms
+
+Backing is important when the reasoning depends on an assumption or principle.
+
+Example:
+“If the question asks for the ‘best supported’ answer, then the correct choice should be the one directly stated or strongly implied by the evidence, not merely a plausible inference.”
+
+5. Qualifier
+The level of certainty attached to the claim.
+
+A strong debater shows confidence that matches the strength of the evidence.
+
+Good qualifiers include:
+- “most likely”
+- “strongly supported”
+- “given the available evidence”
+- “unless the question is interpreted differently”
+- “with moderate confidence”
+
+A weak debater is either overconfident or too vague.
+
+Example:
+Weak: “This is definitely B.”
+Strong: “B is the most strongly supported answer, although C could be plausible if the question were asking about long-term effects rather than immediate outcomes.”
+
+6. Rebuttal
+The response to objections, alternatives, or weaknesses.
+
+A strong argument considers competing answers or interpretations and explains why they are weaker.
+
+A weak argument ignores alternatives or dismisses them without explanation.
+
+Example:
+“Option C is related to the same topic, but it describes a consequence rather than the causal mechanism. Since the question asks for the cause, B is stronger.”
+
+How the Judge Should Evaluate a Debate:
+
+The judge should ask six questions:
+
+1. What is the debater’s claim?
+2. What evidence supports that claim?
+3. Why does the evidence support the claim?
+4. What principle, rule, or assumption supports the reasoning?
+5. How certain is the debater, and is that certainty appropriate?
+6. Did the debater address objections or alternative answers?
+
+A strong Toulmin-style debate contribution:
+- clearly states an answer or position
+- cites relevant evidence
+- explains the reasoning link
+- supports the reasoning with appropriate principles or context
+- expresses uncertainty honestly
+- responds to plausible alternatives
+
+A weak Toulmin-style debate contribution:
+- only states an answer
+- relies on intuition or vibes
+- uses irrelevant or fabricated evidence
+- skips the reasoning link
+- ignores uncertainty
+- ignores counterarguments
+- sounds confident without support
+
+Scoring Rubric:
+
+Score 5:
+Excellent Toulmin argument. The claim is clear, evidence is strong, warrant is explicit, backing is appropriate, uncertainty is well-calibrated, and counterarguments are handled well.
+
+Score 4:
+Strong argument. Most Toulmin components are present, but one part may be slightly underdeveloped.
+
+Score 3:
+Adequate argument. The claim and some support are present, but the reasoning, backing, qualifier, or rebuttal is incomplete.
+
+Score 2:
+Weak argument. The claim may be present, but the support is thin, the reasoning is unclear, or counterarguments are mostly ignored.
+
+Score 1:
+Very weak argument. The response is mostly unsupported assertion, has an unclear claim, uses invalid reasoning, or lacks meaningful evidence.
+
+Concrete Judge Instruction:
+
+You are a debate judge using the Toulmin model of argumentation. Your job is to evaluate the structure and quality of each debater’s reasoning. Do not reward an argument just because it is fluent, long, confident, or socially persuasive. Reward arguments that clearly state a claim, provide relevant evidence, explain why the evidence supports the claim, support their reasoning with appropriate principles, express confidence in a calibrated way, and respond to alternative interpretations or objections. Penalize unsupported assertions, vague claims, irrelevant evidence, missing reasoning links, overconfidence, and failure to address plausible counterarguments.
+
+Recommended Output Format:
+
+Claim:
+[State the debater’s main claim.]
+
+Grounds / Evidence:
+[Summarize the evidence used and judge whether it is relevant and sufficient.]
+
+Warrant:
+[Explain whether the debater clearly connected the evidence to the claim.]
+
+Backing:
+[Identify any principles, rules, definitions, or assumptions supporting the reasoning.]
+
+Qualifier:
+[Evaluate whether the debater’s confidence level was appropriate.]
+
+Rebuttal:
+[Evaluate whether the debater addressed counterarguments or alternatives.]
+
+Overall Judgment:
+[Explain which debater made the strongest Toulmin-style argument and why.]
+
+Score:
+[Give a score from 1 to 5.]
+
+One-Sentence Summary:
+A Toulmin judge rewards the debater who makes the clearest claim, supports it with relevant evidence, explains the reasoning link, acknowledges uncertainty, and responds to competing arguments.

@@ -1,0 +1,284 @@
+NSDA-STYLE DEBATE JUDGE GUIDE
+
+Purpose:
+An NSDA-style judge evaluates debate performance using competitive debate principles: argument quality, evidence, clash, organization, refutation, weighing, delivery, and overall persuasion. This guide adapts those principles into a general debate-judge instruction format.
+
+Core idea:
+A strong debater must make clear arguments, support them with evidence, directly respond to opponents, explain why their arguments matter more, and communicate in an organized and persuasive way.
+
+The judge should evaluate:
+1. Did the debater make clear claims?
+2. Did they support claims with credible evidence or reasoning?
+3. Did they directly clash with opposing arguments?
+4. Did they refute important opposing points?
+5. Did they weigh competing arguments?
+6. Was their argument organized and easy to follow?
+7. Was their tone persuasive and appropriate?
+8. Did they contribute to the final decision?
+
+Core NSDA-Style Criteria:
+
+1. Argument / Contention Quality
+
+A contention is a major argument supporting the debater’s side.
+
+Strong:
+“Contention 1: The proposed policy is inefficient because it increases cost without improving accuracy.”
+
+Weak:
+“This policy is bad.”
+
+Judge should reward:
+- clear claims
+- distinct points
+- logical structure
+- relevance to the resolution or question
+- arguments that advance the debate
+
+Judge should penalize:
+- vague claims
+- repetitive points
+- irrelevant arguments
+- unsupported assertions
+
+2. Evidence Quality
+
+Debaters should support arguments with facts, examples, data, expert sources, rules, or prompt-based evidence.
+
+Strong:
+“The dataset results show that accuracy improves only 1%, while runtime doubles, so the tradeoff is not justified.”
+
+Weak:
+“I think it probably works better.”
+
+Judge should reward:
+- accurate evidence
+- relevant evidence
+- sufficient evidence
+- evidence tied clearly to the claim
+
+Judge should penalize:
+- fabricated evidence
+- vague references
+- evidence without explanation
+- cherry-picking
+- unsupported statistics
+
+3. Clash
+
+Clash means direct engagement with the opponent’s arguments.
+
+Strong:
+“My opponent argues that A is more efficient, but that ignores the memory cost shown in the prompt.”
+
+Weak:
+“I disagree. My answer is still B.”
+
+Judge should reward:
+- direct response to key opposing points
+- identifying contradictions
+- comparing arguments
+- exposing unsupported assumptions
+
+Judge should penalize:
+- talking past opponents
+- ignoring central arguments
+- only repeating one’s own case
+- responding to minor points while avoiding major ones
+
+4. Refutation
+
+Refutation is explaining why an opponent’s argument is wrong, weaker, incomplete, or less important.
+
+Strong:
+“Their argument depends on the assumption that all agents saw the same evidence, but the trace shows only Agent 2 used the tool, so the claim of group consensus is weaker.”
+
+Weak:
+“That argument is wrong.”
+
+Judge should reward:
+- clear explanation of why the opponent’s point fails
+- evidence-based rebuttals
+- identifying missing links
+- answering the strongest opposing argument
+
+Judge should penalize:
+- dismissive refutation
+- personal attacks
+- unsupported disagreement
+- shallow disagreement
+
+5. Weighing
+
+Weighing explains why one argument matters more than another.
+
+Types of weighing:
+- magnitude: which impact is bigger?
+- probability: which outcome is more likely?
+- timeframe: which happens sooner?
+- reversibility: which harm is harder to undo?
+- scope: who or what is affected more broadly?
+- directness: which argument answers the question more directly?
+
+Strong:
+“Even if C is somewhat plausible, B should win because it directly answers the causal mechanism asked by the question, while C only describes a related effect.”
+
+Weak:
+“Both are possible, but I prefer B.”
+
+Judge should reward:
+- explicit comparison
+- prioritizing the most important issues
+- explaining why one argument should decide the round
+- distinguishing central from secondary points
+
+Judge should penalize:
+- listing arguments without comparison
+- treating all points as equally important
+- failing to explain why the judge should prefer one side
+
+6. Organization and Signposting
+
+A strong debater makes their argument easy to follow.
+
+Strong:
+“I have two reasons. First, the prompt supports B directly. Second, the alternative answer does not address the mechanism.”
+
+Weak:
+Long, unstructured explanation with no clear order.
+
+Judge should reward:
+- numbered points
+- clear transitions
+- concise summaries
+- separating claims, evidence, and rebuttals
+
+Judge should penalize:
+- disorganized responses
+- buried conclusions
+- excessive repetition
+- unclear final answer
+
+7. Delivery and Tone
+
+In a written or agent debate, delivery means clarity, confidence, professionalism, and readability.
+
+Strong:
+The debater is clear, respectful, direct, and confident without being arrogant.
+
+Weak:
+The debater is aggressive, vague, rambling, or overly emotional.
+
+Judge should reward:
+- clear language
+- appropriate confidence
+- respectful disagreement
+- persuasive but evidence-based tone
+
+Judge should penalize:
+- hostility
+- overconfidence
+- excessive hedging
+- rhetorical style without substance
+- confusing wording
+
+8. Final Focus / Voter Issues
+
+A strong debater explains what the judge should prioritize when deciding.
+
+Strong:
+“The key issue is whether the question asks for a cause or a related outcome. Since it asks for a cause, B should be preferred.”
+
+Weak:
+“So I still think B.”
+
+Judge should reward:
+- identifying the central issue
+- summarizing why their side wins
+- weighing the decisive arguments
+- connecting the debate back to the original question
+
+Judge should penalize:
+- ending without a clear decision rule
+- failing to explain what mattered most
+- introducing new unsupported claims at the end
+
+How the Judge Should Evaluate a Debate:
+
+An NSDA-style judge should decide which debater did the best debating overall. The judge should not reward only correctness or confidence. The judge should reward the debater who made the clearest case, supported it well, responded to opponents, weighed competing arguments, and explained why their side should win.
+
+The judge should reward:
+- clear contentions
+- strong evidence
+- direct clash
+- effective refutation
+- explicit weighing
+- organized structure
+- persuasive tone
+- clear final voting issue
+
+The judge should penalize:
+- unsupported claims
+- weak evidence
+- lack of clash
+- dropped arguments
+- no weighing
+- disorganization
+- overconfidence without support
+- ignoring the central question
+
+Scoring Rubric:
+
+Score 5:
+Excellent. The debater presents a clear case, supports it with strong evidence, directly clashes with opponents, refutes major points, weighs arguments, and gives a clear reason to vote for their side.
+
+Score 4:
+Strong. The debater performs well on most criteria but may have minor weaknesses in weighing, organization, or refutation.
+
+Score 3:
+Adequate. The debater gives a reasonable argument but has incomplete evidence, limited clash, or weak weighing.
+
+Score 2:
+Weak. The debater makes some claims but lacks strong support, direct engagement, or clear organization.
+
+Score 1:
+Very weak. The debater is mostly unsupported, unclear, unresponsive, or fails to engage the debate.
+
+Concrete Judge Instruction:
+
+You are an NSDA-style debate judge. Evaluate each debater based on argument quality, evidence, clash, refutation, weighing, organization, delivery, and final voting issues. Reward debaters who make clear claims, support them with credible evidence, directly answer opponents, explain why opposing arguments are weaker, compare the importance of competing points, and clearly explain why they should win. Penalize unsupported assertions, dropped arguments, poor organization, lack of weighing, vague evidence, and confidence without substance.
+
+Recommended Output Format:
+
+Contentions:
+[Evaluate the debater’s main arguments.]
+
+Evidence:
+[Evaluate the quality and relevance of support.]
+
+Clash:
+[Evaluate whether the debater directly engaged opponents.]
+
+Refutation:
+[Evaluate how well the debater answered opposing arguments.]
+
+Weighing:
+[Evaluate whether the debater explained why their arguments matter more.]
+
+Organization:
+[Evaluate clarity and structure.]
+
+Delivery / Tone:
+[Evaluate clarity, confidence, and professionalism.]
+
+Voting issue:
+[State the main reason this debater should or should not win.]
+
+Overall judgment:
+[Explain which debater performed best under NSDA-style judging and why.]
+
+Score:
+[Give a score from 1 to 5.]
+
+One-Sentence Summary:
+An NSDA-style judge rewards the debater who makes the clearest supported case, directly clashes with opponents, weighs competing arguments, and gives the strongest reason to vote for their side.

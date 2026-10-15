@@ -1,0 +1,35 @@
+{
+  "issue_labels": [
+    {
+      "id": "i1",
+      "type": "IssueLabel",
+      "label": "missing comparative weighing of benefits and staffing costs"
+    }
+  ],
+  "retrieved_principles": [
+    {
+      "id": "p1",
+      "type": "Principle",
+      "principle": "Weigh a policy benefit against the opponent’s stated implementation cost.",
+      "failure_pattern": "Benefits asserted without comparative weighing of staffing costs.",
+      "applicability": "A policy debate with a concrete cost objection.",
+      "action_template": "Name the benefit, answer the cost objection, and compare their importance.",
+      "source_cluster_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "specific_feedback": [
+    {
+      "specific_feedback_id": "f1",
+      "cluster_id": "c1",
+      "principle_id": "p1",
+      "text": "Compare the access benefit against staffing costs and explain why a limited trial is preferable.",
+      "judge_guide": "synthetic",
+      "category": "actionable_feedback",
+      "section": "",
+      "target": "loser",
+      "debate_argument_anchor": null
+    }
+  ]
+}

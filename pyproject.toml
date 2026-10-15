@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "refeedgraph"
+version = "0.1.0"
+description = "Graph-grounded reusable feedback for debate improvement"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+dependencies = ["openai>=1.0,<3", "PyYAML>=6,<7"]
+
+[project.scripts]
+refeedgraph = "refeedgraph.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+refeedgraph = ["judge_guides/*.txt"]

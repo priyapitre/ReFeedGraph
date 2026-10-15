@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the ReFeedGraph paper when using this implementation."
+type: software
+title: "ReFeedGraph: Graph-Grounded Reusable Feedback for Debate Improvement"
+version: 0.1.0
+authors:
+  - family-names: Pitre
+    given-names: Priya
+  - family-names: Joshi
+    given-names: Omkar
+  - family-names: Ziegenbein
+    given-names: Timon
+  - family-names: Wachsmuth
+    given-names: Henning
+repository-code: "https://github.com/priyapitre/ReFeedGraph"

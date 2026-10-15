@@ -1,0 +1,13 @@
+{
+  "description": "Reference defaults; pass settings as CLI flags. Not an automatically loaded config.",
+  "model": "gpt-4o-mini",
+  "temperature": 0.0,
+  "retrieval": "embedding",
+  "embedding_model": "text-embedding-3-small",
+  "top_k_principles": 8,
+  "specific_examples_per_principle": 2,
+  "max_issue_labels": 8,
+  "max_principle_candidates": 80,
+  "max_specific_examples_total": 30,
+  "variants": ["principles", "specific"]
+}

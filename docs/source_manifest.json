@@ -1,0 +1,57 @@
+{
+  "description": "Source snapshots for this method-only extraction; hashes identify local research files, not upstream authorship.",
+  "files": [
+    {
+      "source": "debate_feedback_common_finalMay21.py",
+      "sha256": "e4cd01c911d60265e9cbfc079a573ca11771dd89342ce1b824dc6931c2741715"
+    },
+    {
+      "source": "run_feedback_method_experiment.py",
+      "sha256": "81371e69a261aa2eaf7e72f0fa59f8e26210ec6a8cb6927378c5d177d8676675"
+    },
+    {
+      "source": "step1_generate_judge_feedback_finalMay21.py",
+      "sha256": "68062fc45c18a4d95ec17dbac7d0be7bfce9cede5ca0abad14885a4672b31acd"
+    },
+    {
+      "source": "step2_synthesize_feedback_finalMay21.py",
+      "sha256": "85b8184cc78b494272b7b6c5e04de0bdca79b7d73f83c3a197bbbf74614458dd"
+    },
+    {
+      "source": "step2b_deduplicate_feedback_finalMay21.py",
+      "sha256": "7f4209700413eec91669482a1c07dd3cbb99f7e5589c38b15d74f0afa2e6dd3f"
+    },
+    {
+      "source": "step3_abstract_feedback_finalMay21.py",
+      "sha256": "93f8b0fb6a5078bc5f895d59a6aea39b6fe9c768d44d687268bc82b1abd72ce3"
+    },
+    {
+      "source": "step4_build_principle_evidence_graph_finalMay21.py",
+      "sha256": "07fbb3e781a982fb355e6a0aa16fd5ea74101a6272b0a7c1a6b161da6a9913d6"
+    },
+    {
+      "source": "step4_combine_principle_evidence_graphs_finalMay21.py",
+      "sha256": "1463fb55fe5e268b21d86043ddf6f3399d7aea51add25a6867b9f8ce66fb76f6"
+    },
+    {
+      "source": "judge_guides/walton_argument_schemes_debate_judge_guide.txt",
+      "sha256": "d8729b44eb235f6563b715f1c767eb5edf00f34967c66cec3dfa4b642f928c02"
+    },
+    {
+      "source": "judge_guides/rogerian_argument_debate_judge_guide.txt",
+      "sha256": "71f6d513a9e9f11619088c4d8405d7d3807583a6bfcea737994df37e227f4f06"
+    },
+    {
+      "source": "judge_guides/uadc_style_debate_judge_summary.txt",
+      "sha256": "bdf42400a3a2d6259ab6c88af6a250d02bcf3e6b29b425f6d3a3bef6b125119a"
+    },
+    {
+      "source": "judge_guides/nsda_style_debate_judge_guide.txt",
+      "sha256": "58f7cd2dcdaef13648482f659652274a21ab035927f0bfeab2643cfe7075efef"
+    },
+    {
+      "source": "judge_guides/toulmin_debate_judge_guide.txt",
+      "sha256": "847661c48aa1b50e704fd4d87f13f20e2715b4dafec0a82e89220959adca9f39"
+    }
+  ]
+}

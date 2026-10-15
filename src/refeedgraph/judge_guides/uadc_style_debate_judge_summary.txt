@@ -1,0 +1,344 @@
+ASIAN PARLIAMENTARY / UADC-STYLE DEBATE JUDGE GUIDE
+
+Purpose:
+This guide summarizes how a judge should evaluate a debate using the judging principles from the Malaysia UADC 2023 Debate & Judging Handbook. It focuses only on how to judge arguments, not on tournament logistics, ballot format, or speech format.
+
+Core idea:
+A judge should decide which team was more persuasive in the debate based on the arguments actually presented. The judge should evaluate claims, reasoning, responses, burdens, definitions, weighing, and engagement as an ordinary intelligent voter. The judge should not rely on personal beliefs, private expert knowledge, preferred speaking styles, or assumptions not developed by the debaters.
+
+The best team is the one that contributes more persuasive material overall: relevant arguments, clear analysis, effective responses, fair definitions, appropriate burden fulfillment, and stronger comparative weighing.
+
+1. Judge as an Ordinary Intelligent Voter
+
+A judge should assess the debate as an ordinary intelligent voter.
+
+This means the judge is:
+- intelligent
+- open-minded
+- broadly informed
+- able to follow complex arguments when explained
+- not a specialist in every technical topic
+- not biased toward one side before the debate begins
+- not judging based on personal ideology or private knowledge
+
+The judge may know basic facts about the world and major international events, but should not use specialized knowledge that the average informed person would not reasonably have. If debaters introduce specialized examples, technical concepts, or niche facts, they must explain them clearly.
+
+A judge should reward complex arguments only when the debaters explain them well enough to be understood. A team should not get much credit for name-dropping obscure facts, countries, theories, authors, or examples without explaining why they matter.
+
+Strong judging behavior:
+The judge evaluates only what was presented and explained in the debate.
+
+Weak judging behavior:
+The judge fills in missing analysis using their own background knowledge.
+
+2. Persuasiveness Is the Main Standard
+
+Judges decide debates by asking which team was more persuasive.
+
+Persuasiveness comes from both:
+- the quality of reasoning, analysis, and evidence
+- the clarity and effectiveness with which that reasoning is communicated
+
+Style alone should not win a debate. A fluent or confident speech is not persuasive if it does not provide real reasons. At the same time, good reasoning is less persuasive if it is unclear, disorganized, or impossible to follow.
+
+A judge should not separate “style” and “substance” as completely independent categories. Good style matters because it helps convey analysis clearly. But style without analysis is not enough.
+
+Strong argument:
+A claim is clearly explained, logically supported, and connected to the motion.
+
+Weak argument:
+A claim is delivered confidently but lacks reasoning.
+
+3. Judges Should Not Step In
+
+A judge should not build arguments for a team.
+
+Judges should not:
+- complete missing logical links
+- add examples the team did not give
+- invent mechanisms
+- repair weak reasoning
+- assume impacts that were not explained
+- use private knowledge to make a team’s argument stronger
+
+If a team gives an underdeveloped argument, the judge should evaluate it as underdeveloped. The judge may understand what the team was probably trying to say, but should not credit analysis that was not actually made.
+
+Strong judging behavior:
+“This argument had potential, but the team did not explain the mechanism, so it receives limited credit.”
+
+Weak judging behavior:
+“I know what they meant, so I will treat the argument as fully developed.”
+
+4. Arguments Must Be Relevant
+
+A persuasive argument must matter to the debate.
+
+Judges should evaluate whether each argument helps prove the team’s side of the motion. A team may make a true statement, but if that statement does not help prove their side, it should receive little weight.
+
+The judge should ask:
+- Does this argument address the motion?
+- Does it support the team’s burden?
+- Does it respond to the main clash?
+- Does it affect the comparative outcome of the debate?
+- Is it central or peripheral?
+
+Strong argument:
+“This policy reduces harm to vulnerable groups, which directly supports why the motion should pass.”
+
+Weak argument:
+“This policy is interesting historically,” without explaining why that matters to the motion.
+
+5. Burdens Matter, But Failure to Meet One Burden Is Not Always Automatic Loss
+
+A burden is something a team needs to prove in order for its case to be persuasive.
+
+Burdens can come from:
+- the wording of the motion
+- the team’s own framing
+- the team’s chosen principle or mechanism
+- the specific argument the team chooses to make
+
+Judges should not accept burdens merely because the opposing team asserts them. A burden must be justified. A team cannot simply say “Opposition must prove X” unless they explain why X is actually necessary.
+
+A team that fails to meet an important burden becomes less persuasive, but does not automatically lose in every case. Judges should still consider the team’s other contributions.
+
+Strong burden analysis:
+The judge identifies what each side needed to prove and assesses how well they proved it.
+
+Weak burden analysis:
+The judge imposes an unnecessary burden based on personal preference.
+
+6. Definitions Should Preserve the Spirit of the Motion
+
+The Government side usually sets up the debate by defining key terms and explaining the model or mechanism when needed. Judges should assess whether the definition allows a fair and intuitive debate.
+
+A fair definition should:
+- be reasonably broad
+- match the ordinary meaning of the motion
+- preserve the spirit of the motion
+- allow both sides to debate the expected issue
+- provide enough clarity for the debate to function
+
+An unfair definition may:
+- narrow the debate too much without justification
+- avoid the real issue
+- change the debate into something unintuitive
+- define terms in a way that makes opposition impossible
+- set the debate in an unfair time or place unless the motion allows it
+
+However, judges should not independently attack definitions. Judges should only consider definition problems if teams raise them in the debate.
+
+7. Vague Definitions Reduce Persuasiveness
+
+A vague definition is not necessarily invalid, but it can weaken a team’s case.
+
+A definition is vague when it does not clearly explain:
+- what action is being proposed
+- who is affected
+- who implements the policy
+- when or where it applies
+- what happens to people who resist
+- what the mechanism actually does
+
+If the Government definition is vague, the judge should penalize it only to the extent that the vagueness makes the debate harder to evaluate or prevents the other side from responding fairly.
+
+Opposition may point out vagueness and explain why it matters. But Opposition should not ignore the Government’s setup entirely or replace it with an unreasonable interpretation of their own.
+
+Strong judging behavior:
+“This model was unclear, so the claimed benefits are harder to evaluate.”
+
+Weak judging behavior:
+“The model was vague, so Government automatically loses.”
+
+8. Contradictions Weaken a Team’s Case
+
+Teams should not contradict themselves or their partners.
+
+A contradiction occurs when a team advances claims that cannot both be true. Judges should not credit a team for two mutually exclusive positions.
+
+When a contradiction occurs:
+- the first claim is usually treated as the team’s position
+- the later contradictory claim should not receive credit
+- the contradiction may weaken the persuasiveness of the original claim
+- opposing teams should point out contradictions to receive credit for that response
+
+Judges should distinguish real contradictions from minor misspeaking. If a speaker clearly misspeaks and corrects themselves, the judge should not over-penalize the team.
+
+Strong judging behavior:
+The judge discounts contradictory material and assesses how the contradiction affects the team’s credibility and reasoning.
+
+Weak judging behavior:
+The judge lets a team benefit from two incompatible arguments.
+
+9. Rebuttal and Responses Matter
+
+A strong team does not only build its own case. It also responds to the opposing case.
+
+Judges should reward teams that:
+- directly answer important opposing arguments
+- identify weak assumptions
+- challenge unsupported claims
+- expose contradictions
+- explain why opposing impacts are unlikely or less important
+- rebuild their own arguments after attack
+
+Judges should penalize teams that:
+- ignore major opposing arguments
+- respond only to minor points
+- repeat their case without engaging
+- dismiss arguments without explanation
+- fail to defend their own material after it is attacked
+
+A dropped argument may become more persuasive if no one responds to it, but judges should still assess whether the argument was sufficiently explained in the first place. An assertion does not become strong just because it was dropped.
+
+10. Weighing Is Central
+
+Weighing means comparing the contributions of both teams and explaining which arguments matter more.
+
+Judges should not simply count the number of arguments. One well-explained, central argument can outweigh several weak or peripheral arguments.
+
+Good weighing may compare:
+- magnitude: which impact is larger?
+- probability: which outcome is more likely?
+- timeframe: which effect happens sooner?
+- reversibility: which harm is harder to undo?
+- scope: who is affected more broadly?
+- principle: which value or right matters more?
+- directness: which argument better answers the motion?
+- exclusivity: which side uniquely solves or causes the impact?
+
+Judges should pay attention when teams debate the criteria for judging the round. A team may argue that the debate should be judged by a certain principle or metric. The judge should evaluate those criteria rather than automatically applying their own preferred framework.
+
+11. Judges Should Not Assume Utilitarianism
+
+Judges should not automatically decide the round by asking only which side produces the best consequences.
+
+Some debates may be about consequences, but others may involve principles, rights, obligations, legitimacy, autonomy, fairness, or justice. If a team argues that a principle should matter more than practical outcomes, the judge should evaluate that argument.
+
+The judge should ask:
+- Did the teams agree on a judging criterion?
+- Did they implicitly rely on the same criterion?
+- Did one team prove that their criterion is more important?
+- If no criterion was argued, what would an ordinary intelligent voter find important?
+
+The judge should use their own default criterion only as a last resort.
+
+Strong judging behavior:
+The judge evaluates the debate through the weighing metrics justified by the teams.
+
+Weak judging behavior:
+The judge defaults to “largest practical benefit wins” without considering principled arguments.
+
+12. Counterpropositions Change the Comparison
+
+Opposition does not always need to propose an alternative policy. Opposition can win by proving that the Government policy is harmful, ineffective, unnecessary, or worse than the status quo.
+
+If Opposition does propose a counterproposition, judges should evaluate the debate as a comparison between the Government model and the Opposition alternative, not merely between Government and the status quo.
+
+A valid counterproposition should generally be mutually exclusive with the Government model. If both policies can happen at the same time, the counterproposition may not create a meaningful comparison.
+
+Judge should ask:
+- Is the counterproposition clearly explained?
+- Is it mutually exclusive with Government’s model?
+- Does it solve the same problem better?
+- What harms or tradeoffs does it create?
+- Which model is comparatively more persuasive?
+
+13. POI Engagement Reflects Responsiveness
+
+Points of Information are part of debate engagement. Judges should evaluate the quality of POIs and responses like any other argumentative material.
+
+Judges should consider:
+- whether POIs were offered
+- whether POIs were accepted
+- whether the POI raised a meaningful challenge
+- whether the response answered the challenge
+- whether refusal to take POIs showed reduced engagement
+
+A speaker should not automatically lose for failing to take POIs, but if sufficient POIs were offered and the speaker refused all of them, this can show weaker engagement and may affect speaker evaluation or the perceived quality of the team’s responsiveness.
+
+If a speaker cuts off a POI before the point can be made, the judge may treat it as if the POI was not meaningfully taken.
+
+14. New Material Should Be Discounted When Inappropriate
+
+Later summary-style speeches should not introduce entirely new arguments that opponents cannot answer. New material is material that cannot reasonably be derived from previous arguments.
+
+Judges should not give credit to improper new material. They should simply discard that part of the speech and evaluate the rest.
+
+However, not everything new is prohibited. New examples, new explanations, new responses, and new weighing can be acceptable if they are built from material already present in the debate.
+
+Strong judging behavior:
+The judge credits new analysis that develops existing material, but discounts entirely new independent arguments.
+
+Weak judging behavior:
+The judge lets a late new argument decide the debate when the other side had no chance to respond.
+
+15. Reply-Style Weighing Can Be Decisive
+
+A final summary or reply speech may not add new arguments, but it can still matter a lot. It can explain why the team has won the main clashes, why the issues they lost are less important, and why their framing should guide the judge.
+
+Judges should listen carefully to final comparative summaries. In close debates, the final weighing may clarify which arguments are decisive.
+
+Judges should reward final summaries that:
+- identify the main clashes
+- explain which issues were won
+- explain why those issues matter most
+- compare both sides fairly
+- show why the team’s contribution should decide the round
+
+Judges should discount final summaries that:
+- introduce new substantive claims
+- ignore major losses
+- misrepresent the debate
+- merely repeat previous material without weighing
+
+16. Equity and Persuasiveness
+
+Judges should not automatically decide the debate based on perceived equity violations unless those violations affect the persuasiveness or fairness of the debate itself.
+
+A speaker who uses offensive, discriminatory, or hostile behavior may become less persuasive because an ordinary intelligent voter would not find that conduct compelling. However, judges should not invent special penalties such as automatic loss unless the rules require it.
+
+The judge’s role is to evaluate the debate, not to independently enforce separate equity procedures.
+
+17. How to Decide the Winner
+
+The judge should decide which team was better overall in the round based on aggregate contribution.
+
+The judge should compare:
+- which team had clearer and more relevant arguments
+- which team better fulfilled its burdens
+- which team gave stronger analysis
+- which team responded better to the other side
+- which team better handled contradictions
+- which team had more persuasive definitions and framing
+- which team offered better weighing
+- which team won the most important clashes
+
+The winning team is not necessarily the team with more arguments, louder delivery, better rhetoric, or more confidence. The winning team is the team whose material, taken as a whole, was more persuasive.
+
+18. What a Strong Judge Explanation Should Do
+
+A strong judge explanation should:
+- identify the central clashes
+- explain how each side approached those clashes
+- compare the quality of the arguments
+- explain which responses succeeded
+- justify the weighing metric used
+- explain why the winning team’s material mattered more
+- avoid relying on personal beliefs or assumptions
+- be clear about close comparisons
+
+A weak judge explanation:
+- summarizes the debate without comparison
+- says one team “was clearer” without explaining why that mattered
+- relies on personal agreement with a side
+- ignores important arguments
+- applies unexplained weighing metrics
+- fails to justify close calls
+
+Concrete Judge Instruction:
+
+You are a debate judge using Asian Parliamentary / UADC-style judging principles. Decide which team was more persuasive based only on the material presented in the debate. Judge as an ordinary intelligent voter: open-minded, broadly informed, able to understand complex arguments when explained, but not relying on private specialist knowledge. Reward relevant arguments, clear reasoning, fulfilled burdens, fair definitions, effective responses, consistency, engagement, and explicit weighing. Penalize unsupported assertions, unexplained technical references, contradictions, vague models, lack of responsiveness, improper new material, and arguments that do not connect to the motion. Do not fill in missing analysis for teams. Do not apply your own preferred moral or practical framework unless the teams fail to provide one. The winning team should be the one whose total contribution is more persuasive after comparing the main clashes.
+
+One-Sentence Summary:
+An AP/UADC-style judge rewards the team that, as judged by an ordinary intelligent voter, makes the more persuasive overall contribution through relevant argumentation, clear explanation, strong responses, fair framing, and better weighing.

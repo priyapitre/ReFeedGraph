@@ -1,0 +1,31 @@
+{
+  "dataset": "synthetic",
+  "debate_id": "library_example",
+  "motion": {
+    "motion": "The town library should extend evening opening hours.",
+    "pro_side": [
+      {
+        "name": "Pro"
+      }
+    ],
+    "con_side": [
+      {
+        "name": "Con"
+      }
+    ],
+    "speech_order": [
+      "Pro",
+      "Con"
+    ]
+  },
+  "speeches": [
+    {
+      "debater_name": "Pro",
+      "content": "The library should stay open later so residents who work during the day can visit. Access to books and study spaces benefits the town."
+    },
+    {
+      "debater_name": "Con",
+      "content": "Longer hours require staff funding. Pro has not compared the benefit to residents with the staffing cost or explained whether a limited evening trial would be sufficient."
+    }
+  ]
+}

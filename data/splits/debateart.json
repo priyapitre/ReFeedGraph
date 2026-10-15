@@ -1,0 +1,478 @@
+{
+  "dataset": "debateart",
+  "train": [
+    {
+      "dataset": "debateart",
+      "id": "0017",
+      "losing_side": "Type1"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0020",
+      "losing_side": "Type1"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0130",
+      "losing_side": "RationalMadman"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0204",
+      "losing_side": "Cowscreen"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0244",
+      "losing_side": "Wylted"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0290",
+      "losing_side": "Wylted"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0309",
+      "losing_side": "Mopac"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0386",
+      "losing_side": "MagicAintReal"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0466",
+      "losing_side": "Alec"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0495",
+      "losing_side": "mourningeyes"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0537",
+      "losing_side": "Somebody"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0566",
+      "losing_side": "Type1"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0569",
+      "losing_side": "Type1"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0570",
+      "losing_side": "Type1"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0578",
+      "losing_side": "Type1"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0600",
+      "losing_side": "Brendo"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0601",
+      "losing_side": "Bazza97125"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0654",
+      "losing_side": "Tiwaz"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0678",
+      "losing_side": "Wrick-It-Ralph"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0679",
+      "losing_side": "Speedrace"
+    }
+  ],
+  "test": [
+    {
+      "dataset": "debateart",
+      "id": "0684",
+      "losing_side": "Wrick-It-Ralph"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0716",
+      "losing_side": "K_Michael"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0731",
+      "losing_side": "Wrick-It-Ralph"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0734",
+      "losing_side": "Dustandashes"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0737",
+      "losing_side": "Sparrow"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0750",
+      "losing_side": "Chitty-Chitty"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0752",
+      "losing_side": "crossed"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0756",
+      "losing_side": "PsychometricBrain"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0777",
+      "losing_side": "Sparrow"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0778",
+      "losing_side": "Sparrow"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0796",
+      "losing_side": "Sparrow"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0802",
+      "losing_side": "Our_Boat_is_Right"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0840",
+      "losing_side": "Wrick-It-Ralph"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0866",
+      "losing_side": "Tiwaz"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0892",
+      "losing_side": "GuitarSlinger"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0905",
+      "losing_side": "K1ngFudge"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0931",
+      "losing_side": "Sparrow"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0943",
+      "losing_side": "King_8"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0951",
+      "losing_side": "GeneralGrant"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0956",
+      "losing_side": "BrotherDThomas"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0959",
+      "losing_side": "Marc1123"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0962",
+      "losing_side": "mairj23"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0987",
+      "losing_side": "TheGreatGameLord"
+    },
+    {
+      "dataset": "debateart",
+      "id": "0994",
+      "losing_side": "RationalMadman"
+    },
+    {
+      "dataset": "debateart",
+      "id": "1033",
+      "losing_side": "Speedrace"
+    },
+    {
+      "dataset": "debateart",
+      "id": "1043",
+      "losing_side": "TheAtheist"
+    },
+    {
+      "dataset": "debateart",
+      "id": "1079",
+      "losing_side": "GuitarSlinger"
+    },
+    {
+      "dataset": "debateart",
+      "id": "1080",
+      "losing_side": "GuitarSlinger"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3638",
+      "losing_side": "Solaris1"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3645",
+      "losing_side": "bruhguy"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3687",
+      "losing_side": "Conservallectual"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3696",
+      "losing_side": "Americandebater24"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3817",
+      "losing_side": "Vici"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3867",
+      "losing_side": "RationalMadman"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3919",
+      "losing_side": "Best.Korea"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3935",
+      "losing_side": "CitifiedDeer170"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3943",
+      "losing_side": "jaay"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3965",
+      "losing_side": "tahaishot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "3986",
+      "losing_side": "Hs400"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4005",
+      "losing_side": "rockwithu"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4024",
+      "losing_side": "Sir.Lancelot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4038",
+      "losing_side": "Mall"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4066",
+      "losing_side": "Sir.Lancelot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4085",
+      "losing_side": "Sir.Lancelot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4123",
+      "losing_side": "Horizoz"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4286",
+      "losing_side": "Sir.Lancelot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4287",
+      "losing_side": "the_viper"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4367",
+      "losing_side": "Sir.Lancelot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4374",
+      "losing_side": "Sir.Lancelot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4389",
+      "losing_side": "Slainte"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4395",
+      "losing_side": "zing_book"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4398",
+      "losing_side": "Sir.Lancelot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4423",
+      "losing_side": "rayhan16"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4509",
+      "losing_side": "prefix"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4562",
+      "losing_side": "Mall"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4567",
+      "losing_side": "Mall"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4573",
+      "losing_side": "Mall"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4617",
+      "losing_side": "Mall"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4620",
+      "losing_side": "FishChaser"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4638",
+      "losing_side": "FishChaser"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4642",
+      "losing_side": "the_quiet_poet9"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4643",
+      "losing_side": "the_quiet_poet9"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4646",
+      "losing_side": "Mall"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4653",
+      "losing_side": "FishChaser"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4671",
+      "losing_side": "the_quiet_poet9"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4674",
+      "losing_side": "Best.Korea"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4691",
+      "losing_side": "Sir.Lancelot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4696",
+      "losing_side": "Sir.Lancelot"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4722",
+      "losing_side": "FishChaser"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4723",
+      "losing_side": "Best.Korea"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4734",
+      "losing_side": "Pevensie"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4735",
+      "losing_side": "Best.Korea"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4739",
+      "losing_side": "Pevensie"
+    },
+    {
+      "dataset": "debateart",
+      "id": "4835",
+      "losing_side": "Mall"
+    }
+  ],
+  "note": "Test IDs restricted to completed main experiment files used by the paper. No debate transcripts included."
+}

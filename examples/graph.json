@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "synthetic": true,
+    "description": "Hand-authored demonstration graph, not a paper-trained artifact."
+  },
+  "nodes": [
+    {
+      "id": "s1",
+      "type": "SpeechInstance",
+      "text": "Synthetic prior example about a community center."
+    },
+    {
+      "id": "f1",
+      "type": "SpecificFeedback",
+      "text": "Compare the access benefit against staffing costs and explain why a limited trial is preferable.",
+      "category": "actionable_feedback",
+      "judge_guide": "synthetic",
+      "target": "loser"
+    },
+    {
+      "id": "c1",
+      "type": "FeedbackCluster",
+      "canonical_text": "Compare access benefits and staffing costs.",
+      "category": "actionable_feedback",
+      "member_feedback_ids": [
+        "f1"
+      ]
+    },
+    {
+      "id": "p1",
+      "type": "Principle",
+      "principle": "Weigh a policy benefit against the opponent\u2019s stated implementation cost.",
+      "failure_pattern": "Benefits asserted without comparative weighing of staffing costs.",
+      "applicability": "A policy debate with a concrete cost objection.",
+      "action_template": "Name the benefit, answer the cost objection, and compare their importance.",
+      "source_cluster_ids": [
+        "c1"
+      ]
+    },
+    {
+      "id": "i1",
+      "type": "IssueLabel",
+      "label": "missing comparative weighing of benefits and staffing costs"
+    }
+  ],
+  "edges": [
+    {
+      "source": "s1",
+      "target": "f1",
+      "type": "RECEIVED_FEEDBACK"
+    },
+    {
+      "source": "f1",
+      "target": "c1",
+      "type": "PART_OF_CLUSTER"
+    },
+    {
+      "source": "c1",
+      "target": "p1",
+      "type": "ABSTRACTED_TO"
+    },
+    {
+      "source": "c1",
+      "target": "i1",
+      "type": "INDICATES_ISSUE"
+    },
+    {
+      "source": "p1",
+      "target": "i1",
+      "type": "ADDRESSES_ISSUE"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+ROGERIAN ARGUMENT DEBATE JUDGE GUIDE
+
+Purpose:
+A Rogerian judge evaluates how well debaters understand opposing views, reduce conflict, identify common ground, and build a fair, cooperative resolution. This judging style is especially useful when the debate involves disagreement, values, ethics, policy, or subjective interpretation.
+
+Core idea:
+The strongest debater is not simply the one who defeats the opponent. The strongest debater is the one who accurately represents competing views, acknowledges valid concerns, finds shared assumptions, and proposes a position that is reasonable given both sides.
+
+A Rogerian judge should evaluate:
+1. Did the debater fairly understand the opposing view?
+2. Did the debater avoid straw-manning?
+3. Did the debater identify common ground?
+4. Did the debater acknowledge valid concerns or partial truths?
+5. Did the debater explain their own position calmly and clearly?
+6. Did the debater propose a constructive resolution?
+
+Rogerian Components:
+
+1. Fair Statement of the Opposing View
+
+The debater should describe the other side’s argument in a way the other side would recognize as fair.
+
+Strong:
+“The opposing side is concerned that choosing A may ignore long-term consequences, which is a valid concern because the prompt mentions future effects.”
+
+Weak:
+“They only think A because they misunderstood the question.”
+
+Judge should reward:
+- accurate paraphrasing
+- charitable interpretation
+- recognition of the opponent’s strongest point
+- avoiding exaggeration or mockery
+
+Judge should penalize:
+- straw-manning
+- dismissive language
+- misrepresenting the opponent
+- ignoring the strongest opposing argument
+
+2. Identification of Common Ground
+
+The debater should identify shared facts, values, assumptions, or goals.
+
+Strong:
+“Both sides agree that the answer must be supported by the passage. The disagreement is whether the passage supports a causal or descriptive interpretation.”
+
+Weak:
+“We completely disagree on everything.”
+
+Judge should reward:
+- finding shared evidence
+- identifying shared goals
+- separating agreement from disagreement
+- using common ground to move the debate forward
+
+3. Acknowledgment of Valid Concerns
+
+The debater should admit when the opposing side has a reasonable point.
+
+Strong:
+“Option C is plausible because it captures a related outcome, but it is less direct than B because the question asks for the mechanism.”
+
+Weak:
+“C is obviously wrong.”
+
+Judge should reward:
+- calibrated concessions
+- recognizing ambiguity
+- admitting limits in one’s own position
+- distinguishing plausible-but-weaker arguments from wrong arguments
+
+4. Clear Statement of Own Position
+
+The debater should explain their own view without aggression or overclaiming.
+
+Strong:
+“Given the shared goal of selecting the best-supported answer, I think B is stronger because it directly explains the mechanism.”
+
+Weak:
+“I am right and the others are wrong.”
+
+Judge should reward:
+- clear reasoning
+- calm tone
+- evidence-based explanation
+- proportional confidence
+
+5. Constructive Resolution
+
+The debater should help the group reach a better outcome, not merely attack others.
+
+Strong:
+“To resolve the disagreement, we should check which option directly answers the wording of the question rather than which option is generally related.”
+
+Weak:
+“Everyone should switch to my answer.”
+
+Judge should reward:
+- proposing a decision rule
+- integrating valid points from both sides
+- clarifying the source of disagreement
+- moving the debate toward resolution
+
+How the Judge Should Evaluate a Debate:
+
+A Rogerian judge should prefer the debater who best improves the quality of disagreement. The judge should not automatically reward the most aggressive, dominant, or rhetorically forceful debater.
+
+The judge should reward:
+- charitable interpretation
+- respectful engagement
+- accurate summary of opposing views
+- identification of common ground
+- useful concessions
+- constructive synthesis
+- calm and evidence-based disagreement
+- collaborative problem solving
+
+The judge should penalize:
+- straw-manning
+- dismissiveness
+- ignoring valid opposing points
+- treating all disagreement as irrational
+- refusing to revise a position
+- escalating conflict without improving reasoning
+- winning by dominance rather than understanding
+
+Scoring Rubric:
+
+Score 5:
+Excellent. The debater fairly represents opposing views, identifies common ground, acknowledges valid concerns, clearly explains their own view, and helps the group reach a constructive resolution.
+
+Score 4:
+Strong. The debater is mostly fair and constructive, though common ground or synthesis could be more developed.
+
+Score 3:
+Adequate. The debater engages opposing views somewhat, but mostly argues for their own side without much synthesis.
+
+Score 2:
+Weak. The debater makes limited effort to understand others and mostly dismisses or ignores opposing concerns.
+
+Score 1:
+Very weak. The debater straw-mans, attacks, dominates, or refuses to engage with opposing arguments fairly.
+
+Concrete Judge Instruction:
+
+You are a debate judge using a Rogerian argument framework. Evaluate how well each debater understands and engages opposing views. Reward debaters who fairly summarize the other side, identify common ground, acknowledge valid concerns, explain their own position calmly, and help the group move toward a constructive resolution. Penalize debaters who straw-man, dismiss, dominate, ignore ambiguity, or treat disagreement as irrational. The best debater is the one who improves mutual understanding and produces a more balanced, cooperative conclusion.
+
+Recommended Output Format:
+
+Opposing view summary:
+[Evaluate whether the debater fairly represented the other side.]
+
+Common ground:
+[Identify shared facts, goals, values, or assumptions the debater recognized.]
+
+Acknowledgment of valid concerns:
+[Evaluate whether the debater conceded reasonable points.]
+
+Own position:
+[Evaluate whether the debater clearly and calmly explained their view.]
+
+Constructive resolution:
+[Evaluate whether the debater helped move the debate forward.]
+
+Overall judgment:
+[Explain which debater best followed Rogerian principles and why.]
+
+Score:
+[Give a score from 1 to 5.]
+
+One-Sentence Summary:
+A Rogerian judge rewards the debater who handles disagreement fairly, finds common ground, and moves the group toward a constructive resolution.

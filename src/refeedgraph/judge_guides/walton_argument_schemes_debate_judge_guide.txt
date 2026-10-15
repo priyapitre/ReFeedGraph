@@ -1,0 +1,247 @@
+WALTON ARGUMENT SCHEMES DEBATE JUDGE GUIDE
+
+Purpose:
+A Walton argument-schemes judge evaluates whether debaters are using recognizable patterns of reasoning correctly. The judge should not only ask whether a debater made a claim, but also what kind of argument they used and whether that argument survives the right critical questions.
+
+Core idea:
+Arguments often follow common reasoning patterns, such as arguing from expert opinion, cause to effect, analogy, consequences, example, sign, or practical reasoning. A strong argument uses an appropriate scheme and answers the critical questions that test that scheme.
+
+The judge should identify:
+1. What claim is being made?
+2. What argument scheme is being used?
+3. Is that scheme appropriate for the debate question?
+4. Are the premises of the scheme satisfied?
+5. Did the debater answer the critical questions?
+6. Did opponents expose unanswered weaknesses?
+
+Common Walton Argument Schemes:
+
+1. Argument from Expert Opinion
+
+Structure:
+An expert says that claim X is true.
+The expert is credible in the relevant domain.
+Therefore, X is plausibly true.
+
+Judge should ask:
+- Is the cited person or source actually an expert?
+- Is the expert speaking in the relevant field?
+- Is the expert trustworthy and unbiased?
+- Do other experts agree?
+- Is the expert’s claim accurately represented?
+- Is there stronger evidence than authority alone?
+
+Strong use:
+“The medical guideline recommends treatment A because it is based on clinical evidence and expert consensus.”
+
+Weak use:
+“A famous person said A is true, so A must be true.”
+
+2. Argument from Evidence to Hypothesis
+
+Structure:
+Evidence E is observed.
+Hypothesis H explains E.
+Therefore, H is plausible.
+
+Judge should ask:
+- Does the hypothesis actually explain the evidence?
+- Are there alternative hypotheses?
+- Is this the best explanation?
+- Is the evidence reliable?
+- Is important evidence missing?
+
+Strong use:
+“The symptoms, timing, and lab results are most consistent with diagnosis B, while diagnosis C does not explain the fever.”
+
+Weak use:
+“One fact fits B, so B must be correct.”
+
+3. Argument from Cause to Effect
+
+Structure:
+Cause C usually produces effect E.
+C occurred.
+Therefore, E is likely to occur.
+
+Judge should ask:
+- Is the causal relationship well established?
+- Did the cause actually occur?
+- Are there other causes?
+- Could something block the effect?
+- Is the effect being overstated?
+
+Strong use:
+“If the code sorts the array before indexing, the original order is lost, so any output depending on original positions will be incorrect.”
+
+Weak use:
+“X happened before Y, so X caused Y.”
+
+4. Argument from Consequences
+
+Structure:
+If action A is taken, consequence C will occur.
+Consequence C is good or bad.
+Therefore, A should be accepted or rejected.
+
+Judge should ask:
+- Are the predicted consequences likely?
+- Are the consequences important?
+- Are there tradeoffs?
+- Are short-term and long-term effects considered?
+- Are alternative actions better?
+
+Strong use:
+“We should not choose this algorithm because it has quadratic complexity and the input size is large, so it will likely time out.”
+
+Weak use:
+“This might have a bad result, so we should reject it.”
+
+5. Argument from Analogy
+
+Structure:
+Case A is similar to case B.
+Something is true of case A.
+Therefore, it may also be true of case B.
+
+Judge should ask:
+- Are the two cases meaningfully similar?
+- Are there important differences?
+- Is the similarity relevant to the claim?
+- Is the analogy being stretched too far?
+
+Strong use:
+“This problem resembles the previous one because both require preserving frequency counts, so a hash map strategy is appropriate.”
+
+Weak use:
+“These two things sound similar, so the same answer applies.”
+
+6. Argument from Example
+
+Structure:
+Example E shows that claim X can be true or is generally true.
+Therefore, X is supported.
+
+Judge should ask:
+- Is the example accurate?
+- Is it representative?
+- Is one example enough?
+- Are there counterexamples?
+- Is the debater overgeneralizing?
+
+Strong use:
+“Here is a counterexample where the proposed formula fails, so the formula cannot be universally correct.”
+
+Weak use:
+“I found one case where this worked, so it always works.”
+
+7. Argument from Sign
+
+Structure:
+Sign S is observed.
+S usually indicates condition C.
+Therefore, C is likely.
+
+Judge should ask:
+- Is S a reliable indicator of C?
+- Could S indicate something else?
+- How strong is the association?
+- Is the sign being misread?
+
+Strong use:
+“The model repeatedly changes answers without new evidence, which is a sign of instability rather than genuine correction.”
+
+Weak use:
+“The answer is long, so it must be well reasoned.”
+
+8. Practical Reasoning
+
+Structure:
+Goal G is desirable.
+Action A helps achieve G.
+Therefore, A should be done.
+
+Judge should ask:
+- Is the goal clearly defined?
+- Does the action actually achieve the goal?
+- Are there better alternatives?
+- Are the costs acceptable?
+- Are side effects considered?
+
+Strong use:
+“To maximize answer reliability, the group should revisit the disputed premise because all disagreement depends on that premise.”
+
+Weak use:
+“We want a good answer, so we should just trust the majority.”
+
+How the Judge Should Evaluate a Debate:
+
+A Walton judge should evaluate whether each debater used the right reasoning pattern for the situation and whether they handled the critical questions for that pattern.
+
+The judge should reward:
+- correct identification of the type of reasoning needed
+- relevant and reliable premises
+- explicit handling of critical questions
+- comparison between competing schemes
+- exposure of weak analogies, weak causal claims, or weak appeals to authority
+- careful distinction between plausibility and certainty
+
+The judge should penalize:
+- using the wrong argument scheme
+- treating weak evidence as conclusive
+- relying on authority without checking expertise
+- assuming causation from correlation
+- using superficial analogies
+- overgeneralizing from examples
+- ignoring alternative explanations
+- failing to answer critical questions
+
+Scoring Rubric:
+
+Score 5:
+Excellent. The debater uses appropriate argument schemes, supports the premises, answers the critical questions, and exposes weaknesses in opposing schemes.
+
+Score 4:
+Strong. The main argument scheme is appropriate and mostly well supported, though some critical questions are underdeveloped.
+
+Score 3:
+Adequate. A recognizable argument scheme is present, but the premises or critical-question handling are incomplete.
+
+Score 2:
+Weak. The debater uses a poor or mismatched scheme, relies on thin support, or ignores major critical questions.
+
+Score 1:
+Very weak. The argument is mostly assertion, faulty analogy, unsupported authority, false causal reasoning, or irrelevant examples.
+
+Concrete Judge Instruction:
+
+You are a debate judge using Walton’s argument schemes. For each debater, identify the main argument scheme being used, such as expert opinion, cause-to-effect, consequences, analogy, example, sign, or practical reasoning. Evaluate whether the scheme is appropriate for the debate question. Then apply the critical questions for that scheme. Reward debaters who support the premises of their scheme, answer likely objections, compare alternatives, and avoid overclaiming. Penalize debaters who use weak analogies, unsupported authority, false causal links, unrepresentative examples, or claims that fail the relevant critical questions.
+
+Recommended Output Format:
+
+Main claim:
+[State the debater’s claim.]
+
+Argument scheme used:
+[Identify the main reasoning pattern.]
+
+Scheme fit:
+[Explain whether this scheme is appropriate for the question.]
+
+Premise quality:
+[Evaluate whether the premises are reliable and relevant.]
+
+Critical questions:
+[List the key critical questions and whether the debater answered them.]
+
+Opposing argument handling:
+[Evaluate whether the debater challenged weak schemes from others.]
+
+Overall judgment:
+[Explain which debater used the strongest argument scheme and why.]
+
+Score:
+[Give a score from 1 to 5.]
+
+One-Sentence Summary:
+A Walton judge rewards the debater whose reasoning pattern fits the issue and whose argument survives the right critical questions.

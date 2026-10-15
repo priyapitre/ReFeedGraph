@@ -1,0 +1,78 @@
+{
+  "dataset": "bp_og_oo",
+  "train": [
+    {
+      "dataset": "bp_og_oo",
+      "id": "003",
+      "losing_side": "OO"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "020",
+      "losing_side": "OG"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "203",
+      "losing_side": "OG"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "210",
+      "losing_side": "OG"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "211",
+      "losing_side": "OO"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "216",
+      "losing_side": "OG"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "220",
+      "losing_side": "OG"
+    }
+  ],
+  "test": [
+    {
+      "dataset": "bp_og_oo",
+      "id": "222",
+      "losing_side": "OG"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "224",
+      "losing_side": "OO"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "230",
+      "losing_side": "OG"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "232",
+      "losing_side": "OG"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "234",
+      "losing_side": "OG"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "235",
+      "losing_side": "OG"
+    },
+    {
+      "dataset": "bp_og_oo",
+      "id": "236",
+      "losing_side": "OG"
+    }
+  ],
+  "note": "Test IDs restricted to completed main experiment files used by the paper. No debate transcripts included."
+}

@@ -1,0 +1,458 @@
+{
+  "dataset": "iq2",
+  "train": [
+    {
+      "dataset": "iq2",
+      "id": "001",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "002",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "004",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "006",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "007",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "008",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "009",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "010",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "011",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "013",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "014",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "015",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "016",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "017",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "018",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "019",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "020",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "021",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "022",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "023",
+      "losing_side": "For"
+    }
+  ],
+  "test": [
+    {
+      "dataset": "iq2",
+      "id": "024",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "025",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "026",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "027",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "028",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "029",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "030",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "031",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "032",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "033",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "034",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "035",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "036",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "037",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "038",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "039",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "040",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "041",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "042",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "043",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "044",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "045",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "046",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "047",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "048",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "049",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "050",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "051",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "052",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "053",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "054",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "055",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "056",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "057",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "058",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "059",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "060",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "061",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "062",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "063",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "064",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "065",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "066",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "067",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "068",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "069",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "070",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "071",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "072",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "073",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "074",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "075",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "076",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "077",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "078",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "079",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "080",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "081",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "082",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "083",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "084",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "085",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "086",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "087",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "088",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "089",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "090",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "091",
+      "losing_side": "For"
+    },
+    {
+      "dataset": "iq2",
+      "id": "092",
+      "losing_side": "Against"
+    },
+    {
+      "dataset": "iq2",
+      "id": "093",
+      "losing_side": "For"
+    }
+  ],
+  "note": "Test IDs restricted to completed main experiment files used by the paper. No debate transcripts included."
+}
