@@ -17,7 +17,7 @@ New debate → Diagnose target side → Retrieve graph evidence → Generate fee
 This is a **method-focused release**. It includes graph construction, lexical and
 embedding retrieval, both feedback variants, and optional speech rewriting. It does
 not include comparative baselines, scoring experiments, or scripts to reproduce all
-paper tables. PROF is not a software dependency. See [scope and provenance](docs/provenance.md).
+paper tables. PROF is not a software dependency.
 
 ## Installation
 
@@ -119,7 +119,7 @@ The exact main-experiment ID lists are in `data/splits/`:
 | IQ2 | 20 | 70 |
 | BP Opening Government / Opening Opposition | 7 | 7 |
 
-See [data setup](data/README.md) and [method reproduction](docs/reproduction.md).
+See [data setup](data/README.md) for the required input format and export commands.
 Dataset transcripts and trained graphs containing source excerpts are not bundled.
 
 ## Optional speech revision
